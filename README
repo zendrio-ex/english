@@ -1,0 +1,1 @@
+1. mistakes_dict in settings.local is list which consists just of 2 elements: first is language in keys

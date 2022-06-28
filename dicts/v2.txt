@@ -1,0 +1,27 @@
+flu	грипп
+stomach	желудок
+ache	боль
+couldn't agree more	абсолютно согласен
+superstition	суеверие
+prophet	пророк
+distinguish	различать
+hesitate	сомневаться, колебаться
+clarify	уточнить
+obtain	приобретать
+ought to	должен, следует
+incrementally	постепенно
+sparse	редкий
+denote	обозначать
+inquiry	расследование
+impose	навязывать
+upset	расстроенный, расстраивать
+restrict	ограничивать
+surprisingly	удивительно
+consequence	последствие
+sequence	последовательность
+traffic jam	пробка
+recession	спад, кризис
+decrease	уменьшать
+get cut off	отключиться, обрыв связи
+apply for a job	подавать заявление на работу
+rarely	редко
