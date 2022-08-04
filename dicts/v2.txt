@@ -13,8 +13,6 @@ incrementally	постепенно
 sparse	редкий
 denote	обозначать
 inquiry	расследование
-impose	навязывать
-upset	расстроенный, расстраивать
 restrict	ограничивать
 surprisingly	удивительно
 consequence	последствие
@@ -25,3 +23,36 @@ decrease	уменьшать
 get cut off	отключиться, обрыв связи
 apply for a job	подавать заявление на работу
 rarely	редко
+strict	строгий, требовательный
+screw	прикрутить
+suspicious	подозрительный
+masterfully	властно
+justice	справедливость, правосудие
+accuse	обвинять
+capable	способный
+apt	склонный
+niece	племянница
+anniversary	годовщина
+plain	простой, базовый
+fancy	причудливый, шикарный
+oar	весло
+puke	блевать
+insect	насекомое
+deer	олень
+jellyfish	медуза
+venom	яд
+sting	жалить, жало
+shout	кричать, крик
+wave	махать
+rub	тереть
+shore	берег
+forgery	подделка
+suffer	страдать
+dizzy	головокружение
+nauseous	тошнотворный, отвратительный
+goosebumps	мурашки
+traffic light	светофор
+roundabout	круговое движение
+curtains	шторы
+candle	свеча
+wasp	оса
