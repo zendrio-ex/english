@@ -2,7 +2,6 @@ arise arose arisen возникать
 awake awoke awoken проснуться
 bear bore born родить
 beat beat beaten бить
-become became become становиться
 befall befell befallen случаться
 beget begot begotten порождать
 begin began begun начать
@@ -26,12 +25,10 @@ build built built строить
 burn burnt burnt жечь
 burst burst burst взорваться
 buy bought bought купить
-can could _ мочь
 cast cast cast бросать
 catch caught caught ловить
 choose chose chosen выбирать
 cling clung clung цепляться
-come came come приходить
 cost cost cost стоит
 creep crept crept ползать
 cut cut cut резать
@@ -60,7 +57,6 @@ foretell foretold foretold предсказать
 freeze froze frozen замерзать
 get got got получить
 give gave given дать
-go went gone идти
 grind ground ground молоть
 grow grew grown расти
 hang hung hung вешать
@@ -97,7 +93,6 @@ rid rid rid избавлять
 ride rode ridden ездить
 ring rang rung звенеть
 rise rose risen подниматься
-run ran run бежать
 say said said сказать
 see saw seen видеть
 seek sought sought искать
