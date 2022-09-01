@@ -56,3 +56,44 @@ roundabout	круговое движение
 curtains	шторы
 candle	свеча
 wasp	оса
+score the goal	забить гол
+truck	грузовик, багаж
+identical	идентичный
+inferior	худший, уступающий
+superior	превосходящий
+open up	раскрыть
+complain	жаловаться
+secure	безопасный, надежный
+go off	уходить, испортиться
+run out of	закончиться, исчерпать
+orphan home	детский дом
+put on	надевать
+powder	порошок, порох
+cannon	пушка, орудие
+solar panel	солнечная панель
+lip	губа
+diaper	подгузник
+nurse	медсестра, медбрат
+swiss	швейцарский, швейцарец
+coincidence	совпадение
+arrogant	высокомерный, надменный
+lack	нехватка
+violate	нарушать, преступать
+density	плотность
+propose (al)	предлогать (предложение)
+aim	намерение, цель
+accordance	согласие, соответствие
+suffarage	избирательно право
+broad	широкий
+fund	финансировать
+sustenance	поддержка
+raise	поднять, повышать
+awareness	осведомленность
+maxed out	исчерпан
+interrogate	расспрашивать, выспрашивать, допрашивать
+enact	предписывать, принимать
+provision	обеспечение, снабжение
+sublime	возвышенный
+inherit	наследовать
+detach	отделять
+self-awareness	самосознание, самоосмысление
