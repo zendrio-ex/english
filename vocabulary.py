@@ -122,7 +122,8 @@ class CurrentVocabulary:
         else:
             raise ValueError("Sorry, but u put incorrect 'ru' or 'en' mode")
         print(f'You were wrong in the next words ({wrong_dct.__len__()}/{len(lst)}):')
-        print(json.dumps(wrong_dct, ensure_ascii=False))
+        for word in wrong_dct:
+            print(f"{word}: {wrong_dct[word]}")
 
 
 en = settings['en']

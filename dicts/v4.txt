@@ -1,0 +1,96 @@
+wage	зарплата (сдельная)
+greet	здороваться, приветствовать
+appearance	внешний вид
+negligible	незначительный
+crayfish	рак
+curse	проклятие, проклинать
+leather	кожа
+polyester	синтетика
+asphalt	асфальт
+knit	вязать
+plate	тарелка
+handle	справляться
+on second thought	немного подумав
+remarkably	замечательно
+developed	развитый, разработанный
+robust	крепкий
+thrifty	бережливый
+fingers crossed	Держу за тебя кулачки!
+encompass	охватывать
+weed	сорняк
+noble	благородный
+loosely	небрежно, вольно
+redundant	избыточный
+hoard	копить
+warehouse	склад, хранилище
+apparently	видимо
+rid	избавиться, освобождать
+obstacle	препятствие
+goon	болван
+encourage	поощрять
+wig	парик
+obsess	преследовать
+misalign	сместить
+dignity	достоинство
+accept	принимать
+come up with	придумать
+distract	отвлекать, уводить в сторону
+circumstance	обстоятельство
+invasion	вторжение
+threat	угроза
+merchant	торговец
+bowl	чаша, миска
+brothel	бордель
+noodles	лапша
+despite	несмотря на
+dedicate	посвящать, предназначать
+obsession	одержимость
+vivid	яркий
+fade	увядать, блекнуть
+desire	желание
+saturation	насыщение
+depict	изображать
+ominous	зловещий
+ambiguity	двусмысленность, неопределенность
+serenity	безмятежность, спокойствие
+carve	вырезать
+crutch	костыль, опора
+stay in touch	оставаться на связи
+gossip	сплетничать
+fin	плавник, ребро
+meanwhile	тем временем, между тем
+straight away	сразу, немедленно
+sentence	приговор, предложение
+rumor	слух, сплетня
+pillow	подушка
+kettle	чайник, котел
+pottery	керамика
+clay	глина
+feathers	перья
+next to	рядом с
+fine	штраф, штрафовать
+dough	тесто
+relief	облегчение, утешение
+uncanny	сверхъестественный, жуткий
+recollection	воспоминание
+disturb	беспокоить, тревожить
+flood	наводнение
+hindsight	взгляд в прошлое
+convenient	удобный, подходящий
+oven	печь, духовка
+dumb	тупой
+slip	скользить
+pivot	стержень, поворот
+bruise	синяк, ушиб
+stab	пронзать, колоть, ранить
+exaggerate	преувеличивать, утрировать
+regard	рассматривать
+regarding	относительно, касательно
+occupy	занимать, оккупировать
+mud	грязь, слякоть
+tip	наклонять
+drastically	радикально, кардинально
+creek	ручей
+junk	хлам
+impetus	импульс, толчок
+abduct	похищать
