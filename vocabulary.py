@@ -103,7 +103,6 @@ class CurrentVocabulary:
                     print('_________________')
                 else:
                     print(f"Sorry, but you are wrong! Right is '{self.ru[id]}'")
-                    time.sleep(TIME_FOR_SLEEP)
                     if input("Do you want to add the word to the mistakes dict ? ").lower() in ('yes', 'y', 'да', '+', 'д'):
                         wrong_dct[self.en[id]] = self.ru[id]
                     print('_________________')
@@ -115,7 +114,6 @@ class CurrentVocabulary:
                     print('_________________')
                 else:
                     print(f"Sorry, but you are wrong! Right is '{self.en[id]}'")
-                    time.sleep(TIME_FOR_SLEEP)
                     if input("Do you want to add the word to the mistakes dict ? ").lower() in ('yes', 'y', 'да', '+', 'д'):
                         wrong_dct[self.ru[id]] = self.en[id]
                     print('_________________')
@@ -123,7 +121,7 @@ class CurrentVocabulary:
             raise ValueError("Sorry, but u put incorrect 'ru' or 'en' mode")
         print(f'You were wrong in the next words ({wrong_dct.__len__()}/{len(lst)}):')
         for word in wrong_dct:
-            print(f"{word}: {wrong_dct[word]}")
+            print('"' + f'{word}' + '": "' + f'{wrong_dct[word]}' + '",')
 
 
 en = settings['en']
@@ -142,11 +140,11 @@ if dct_with_mistakes['ru'].__len__() != 0:
     en = dct_with_mistakes['en']
     ru = dct_with_mistakes['ru']
 
+
 if __name__ == '__main__':
-    
     if len(sys.argv) > 1:
-        file_name = f'{sys.argv[1:][0]}.txt'
-        if 'all' in file_name.lower():
+        file_names = sys.argv[1:]
+        if 'all' in file_names:
             # all mode
             lst_files = [file for file in os.listdir('./dicts') if '.txt' in file and file not in IGNORED_FILES_LISTS]
             print("There will be words from ", lst_files)
@@ -157,7 +155,11 @@ if __name__ == '__main__':
                 ru += curr_ru
         else:
             # just one vocabulary
-            en, ru = CurrentVocabulary._read_text('./dicts/' + file_name).values()
+            en, ru = [], []
+            for file in file_names:
+                curr_words = list(CurrentVocabulary._read_text('./dicts/' + f'{file}.txt').values())
+                en += curr_words[0]
+                ru += curr_words[1]
 
     voc = CurrentVocabulary(en, ru)
     mode = input("what's mode do you want ? 1. infinity, 2. sequence - ")
