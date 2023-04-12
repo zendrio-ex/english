@@ -1,0 +1,116 @@
+spine	позвоночник
+toe	палец ноги
+heel	пятка, каблук
+chin	подбородок
+barbell	штанга
+abs	пресс, мышцы живота
+jaw	челюсть
+forearm	предплечье
+forehead	лоб
+rib	ребро
+intestine	кишечник
+knee	колено
+thigh	бедро
+kidney	почка (орган)
+mussels	мидии
+shrimp	креветка
+oyster	устрица
+salmon	красная рыба
+tuna	тунец
+lamb	баранина
+eggplant	баклажан
+beetroot	свекла
+cabbage	капуста
+peach	персик
+pea	горох
+courgette	кабачок
+strawberry	клубника, земляника
+raspberry	малина
+fart	пукать
+cauliflower	цветная капуста
+mild	мягкий, умеренный
+shank	голень, ножка
+compound	соединение, смесь
+as a matter of fact	по сути дела
+dawn	рассвет, заря
+indeed	в самом деле, действительно
+hardy	выносливый, закаленный
+thrive	процветать
+diversity	разнообразие, многообразие
+cattle	рогатый скот
+to some extent	в некоторой степени
+fertilize	удобрять
+graze	пастись
+go-to	наилучший
+speculate	размышлять, делать догадки
+descend	спускаться
+ascend	подниматься
+smoke	коптить
+percieve	воспринимать, ощущать
+peel	чистить кожуру, кожица
+dilute	разбавлять
+I happen to (do)	Я случайно...
+courtesy of	любезно предоставлено, благодаря
+odor	запах, аромат
+forage	корм
+prone to something	склонный к чему-либо
+oxidation	окисление
+scat	помет, экскременты
+foul	грязный, бесчестный
+hence	следовательно
+reign	царствовать, правление
+crops	урожай, зерновые
+grains	злаки, зерна
+aversion	отвращение, антипатия
+shear	стричь
+lean	прислоняться
+weave	ткать, плести
+fiber	волокно
+shepherd	пастух, овчарка
+mince	измельчать, молоть
+rumination	пережевывание
+chew	жевать, обдумывать
+digest	переваривать
+domesticate	приручать, одомашнивать
+damp	сырой
+coherence	согласованность, слаженность
+vary	различаться, варьироваться
+canned	консервированный
+mustard	горчица
+vinegar	уксус
+garlic	чеснок
+dusk	сумерки, закат
+enchant	очаровывать
+sour cream	сметана, сливки
+season	заправлять приправами
+pungent	острый, сильно пахнущий
+draw	ничья
+skinning	свежевать
+awful lot of	ужасно много
+fishy	подозрительный, сомнительный
+corneas	роговица
+intend	намереваться
+preserve	сохранять
+cure	лечить
+drap (over)	занавешивать (накинуть поверх)
+cave	пещера
+hospitable	гостеприимный
+stiff	жесткий, плотный
+chop	рубить, нарезать
+absorb	поглощать, впитывать
+pile	куча
+log	бревно
+twig	веточка, прутик
+flint	кремень
+evaporate	испаряться, выпаривать
+wrap	заворачивать
+rig	установка
+impede	препятствовать
+hose	шланг
+combustion	сгорание
+jerky	вяленая говядина
+tissue	ткань, салфетка
+seal	запечатывать, тюлень
+rampant	угрожающий, буйный
+soluble	растворимый
+haywire	сбитый с толку

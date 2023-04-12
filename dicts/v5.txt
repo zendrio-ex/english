@@ -78,14 +78,14 @@ mural	фреска
 prodigious	удивительный, поразительный
 demolish	сносить, разрушать
 overly	чрезмерно
-adore	
+adore	обожать
 deliberate	преднамеренный
 flesh	плоть
 encase	упаковывать
 flick	щелчок
 flake	чешуйка, хлопья
 meadow	луг
-fascination	
+fascination	прелесть, очарование
 dazzle	ослеплять
 glow	светиться
 canvas	холст
@@ -98,6 +98,6 @@ artifice	хитрость, выдумка
 stir emotions	вызывать эмоции
 ink	чернила
 crucial	решающий, ключевой
-be fond of	
+be fond of	любить, увлекаться
 crochet	вязять крючком
 wale	кит
