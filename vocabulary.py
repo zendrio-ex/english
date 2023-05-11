@@ -67,6 +67,7 @@ class CurrentVocabulary:
             while True:
                 id = random.randint(0, self.len - 1)
                 answer = input(f'{self.en[id]}: ').lower()
+                
                 if answer in [word[1:] if word[0] == ' ' else word for word in self.ru[id].split(',')]:
                     print(f"Currect! '{self.ru[id]}'.")
                     print('_________________')
@@ -79,6 +80,7 @@ class CurrentVocabulary:
             while True:
                 id = random.randint(0, self.len - 1)
                 answer = input(f'{self.ru[id]}: ').lower()
+
                 if answer == self.en[id]:
                     print(f"Currect! '{self.en[id]}'.")
                     print('_________________')
@@ -96,30 +98,37 @@ class CurrentVocabulary:
         random.shuffle(lst)
         if type == 'en':
             for n, id in enumerate(lst):
-                answer = input(f'{n+1}/{len(lst)}. {self.en[id]}: ').lower()
+                try:
+                    answer = input(f'{n+1}/{len(lst)}. {self.en[id]}: ').lower()
+                except KeyboardInterrupt:
+                    break
                 
                 if answer in [word[1:] if word[0] == ' ' else word for word in self.ru[id].split(',')]:
                     print(f"Currect! '{self.ru[id]}'.")
                     print('_________________')
                 else:
                     print(f"Sorry, but you are wrong! Right is '{self.ru[id]}'")
-                    if input("Do you want to add the word to the mistakes dict ? ").lower() in ('yes', 'y', 'да', '+', 'д'):
+                    if input("Do you want to add the word to the mistakes dict ? ").lower() in ('yes', 'y', 'да', '+', 'д', '++', '+++'):
                         wrong_dct[self.en[id]] = self.ru[id]
                     print('_________________')
         elif type == 'ru':
             for n, id in enumerate(lst):
-                answer = input(f'{n+1}/{len(lst)}. {self.ru[id]}: ').lower()
+                try:
+                    answer = input(f'{n+1}/{len(lst)}. {self.ru[id]}: ').lower()
+                except KeyboardInterrupt:
+                    break
+                        
                 if answer == self.en[id]:
                     print(f"Currect! '{self.en[id]}'.")
                     print('_________________')
                 else:
                     print(f"Sorry, but you are wrong! Right is '{self.en[id]}'")
-                    if input("Do you want to add the word to the mistakes dict ? ").lower() in ('yes', 'y', 'да', '+', 'д'):
+                    if input("Do you want to add the word to the mistakes dict ? ").lower() in ('yes', 'y', 'да', '+', 'д', '++', '+++'):
                         wrong_dct[self.ru[id]] = self.en[id]
                     print('_________________')
         else:
             raise ValueError("Sorry, but u put incorrect 'ru' or 'en' mode")
-        print(f'You were wrong in the next words ({wrong_dct.__len__()}/{len(lst)}):')
+        print(f'\nYou were wrong in the next words ({wrong_dct.__len__()}/{n}):')
         for word in wrong_dct:
             print('"' + f'{word}' + '": "' + f'{wrong_dct[word]}' + '",')
 
