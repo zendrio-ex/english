@@ -15,7 +15,7 @@ bald	лысый
 spark	искриться
 awful	ужасный
 suddenly	внезапно, вдруг
-realize	осознать
+realize	осознатьшерсть
 hardly ever	почти никогда
 embarrass	смущать
 shy	застенчивый
@@ -140,7 +140,7 @@ jealous	ревнивый, завистливый
 invent	изобретать, выдумывать
 tan	загар
 frighten	пугать
-banch	скамейка
+bench	скамейка
 dumbbell	гантель, гиря
 breast	грудь
 persuade	уговаривать, убеждать
