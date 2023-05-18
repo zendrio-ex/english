@@ -32,7 +32,8 @@ class CurrentVocabulary:
         print()
 
     @staticmethod
-    def _read_text(file_name: str):
+    def _read_text(file_name: str,
+                   shuffle_flag: bool = True):
         """_summary_."""
         with open(file_name, 'r', encoding='utf-8') as f:
             text = f.read()
@@ -44,7 +45,10 @@ class CurrentVocabulary:
             en.append(curr[0])
             ru.append(curr[1])
 
-        return {'en': en, 'ru': ru}
+        result = {'en': en, 'ru': ru}
+        if shuffle_flag:
+            result = {key: result[key] for key in random.shuffle(list(result.keys()))}
+        return result
 
     @staticmethod
     def dct_to_lists(dct: dict, first_country: str = None) -> dict:
