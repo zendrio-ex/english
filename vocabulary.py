@@ -46,8 +46,6 @@ class CurrentVocabulary:
             ru.append(curr[1])
 
         result = {'en': en, 'ru': ru}
-        if shuffle_flag:
-            result = {key: result[key] for key in random.shuffle(list(result.keys()))}
         return result
 
     @staticmethod
