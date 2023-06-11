@@ -92,3 +92,5 @@ malnutrition	недоедание
 hunger	голод
 repel	отталкивать
 lorry	грузовик
+It's high time  самое время, давно пора
+to talk nonsense    нести чушь, говорить ерунду

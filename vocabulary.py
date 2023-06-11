@@ -167,7 +167,7 @@ if __name__ == '__main__':
                 en += curr_en
                 ru += curr_ru
         else:
-            # just one vocabulary
+            # just some vocabularies
             en, ru = [], []
             for file in file_names:
                 curr_words = list(CurrentVocabulary._read_text('./dicts/' + f'{file}.txt').values())
