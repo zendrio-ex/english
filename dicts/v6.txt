@@ -16,7 +16,7 @@ That figures	это логично
 What a bummer!	облом
 swear word	ругательное слово
 omit	пропускать, не включать
-peek	подглядывать
+peek	подглядывать, заглядывать
 rot	гнить
 rotten	гнилой, тухлый
 bitter	горький

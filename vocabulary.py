@@ -126,7 +126,7 @@ class CurrentVocabulary:
                 else:
                     print(f"Sorry, but you are wrong! Right is '{self.en[id]}'")
                     if input("Do you want to add the word to the mistakes dict ? ").lower() in ('yes', 'y', 'да', '+', 'д', '++', '+++'):
-                        wrong_dct[self.ru[id]] = self.en[id]
+                        wrong_dct[self.en[id]] = self.ru[id]
                     print('_________________')
         else:
             raise ValueError("Sorry, but u put incorrect 'ru' or 'en' mode")

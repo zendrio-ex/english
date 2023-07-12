@@ -29,7 +29,7 @@ paw	лапа
 blunt	тупой, грубый
 sway	качаться, колебаться
 strain	напряжение
-pick out	выбрать
+pick out	выбирать, отбирать
 consume	потреблять
 charity	благотворительность
 nevertheless	тем не менее

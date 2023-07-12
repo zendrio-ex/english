@@ -37,7 +37,7 @@ drop off	высаживать
 villain	злодей
 mess	беспорядок
 curious	любопытный
-enchance	усиливать
+enhance	усиливать
 sustainable	устойчивый
 devastating	разрушительный
 carnage	резня

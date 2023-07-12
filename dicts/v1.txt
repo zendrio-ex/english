@@ -15,7 +15,7 @@ bald	лысый
 spark	искриться
 awful	ужасный
 suddenly	внезапно, вдруг
-realize	осознатьшерсть
+realize	осознать
 hardly ever	почти никогда
 embarrass	смущать
 shy	застенчивый
@@ -93,7 +93,7 @@ trolley	тележка
 departure	отправление
 reclaim	исправление
 baggage reclaim	выдача багажа
-claim	требовать, претензия
+claim	требовать, клеймить, заявлять, претензия
 vice versa	наоборот
 jewellery	ювелирные изделия
 excite	возбуждать, волновать
@@ -117,7 +117,7 @@ impression	впечатление
 laundry	стирка
 strive	стремиться
 coal	уголь
-argue	спорить, ссориться
+argue	спорить, ссориться, заявить
 recently	недавно
 credentials	полномочия, учетные данные
 brackets	скобки
