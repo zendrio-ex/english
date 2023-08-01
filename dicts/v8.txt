@@ -59,7 +59,7 @@ mold	плесень
 commode	комод
 thirst	жажда
 drench	промокать
-quench	утолить
+quench	утолить, тушить 
 rally	объединять, собирать
 rubble	обломки
 line up	выстраиваться в линию

@@ -16,7 +16,6 @@ That figures	это логично
 What a bummer!	облом
 swear word	ругательное слово
 omit	пропускать, не включать
-peek	подглядывать, заглядывать
 rot	гнить
 rotten	гнилой, тухлый
 bitter	горький
@@ -89,7 +88,7 @@ cargo	груз
 waste	тратить впустую, отходы
 leftover	остаток
 excuse	оправдание
-Flaw	недостаток, изъян
+flaw	недостаток, изъян
 pinky	мизинец
 thereof	из этого, из того
 humerus	плечевая кость

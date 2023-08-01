@@ -64,7 +64,7 @@ tycoon	магнат
 lucrative	прибыльный
 prominence	известность
 pledge	залог, обещание
-invincible	непобедимый
+invincible	непобедимый, неуязвимый
 acute question/pain	острый вопрос/боль
 sink	раковина
 hand in hand	рука об руку

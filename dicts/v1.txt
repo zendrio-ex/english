@@ -81,7 +81,7 @@ link	связывать
 refer	ссылаться
 express	выражать
 order	порядок, приказ
-to get married	жениться
+to be married to	быть женатым на
 to be in hurry	спешить
 injury	травма
 revise	проверять, исправлять
