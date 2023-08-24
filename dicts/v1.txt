@@ -6,7 +6,7 @@ suppose	полагать
 apologize	извиняться
 get on with	ладить с кем-то
 end up	оказаться
-treat	лечить, обращаться с кем-либо
+treat	лечить, обращаться к кому-то
 neat	аккуратный
 generous	щедрый
 accurate	точный
@@ -85,7 +85,7 @@ to be married to	быть женатым на
 to be in hurry	спешить
 injury	травма
 revise	проверять, исправлять
-issue	выпуск, выдача
+issue	выпуск, выдача, вопрос, проблема
 resume	возобновлять
 undo	отменить
 election	выборы

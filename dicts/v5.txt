@@ -93,7 +93,7 @@ overt	явный, неприкрытый
 cliff	утес, скала
 tender	нежный, ласковый
 compliant	уступчивый, податливый
-molicious	злонамеренный
+malicious	злонамеренный
 artifice	хитрость, выдумка
 stir emotions	вызывать эмоции
 ink	чернила

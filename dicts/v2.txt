@@ -57,7 +57,7 @@ curtains	шторы
 candle	свеча
 wasp	оса
 score the goal	забить гол
-truck	грузовик, багаж
+truck	грузовик, тележка
 identical	идентичный
 inferior	худший, уступающий
 superior	превосходящий
@@ -83,7 +83,7 @@ density	плотность
 propose (al)	предлогать (предложение)
 aim	намерение, цель
 accordance	согласие, соответствие
-suffarage	избирательно право
+suffrage	избирательно право
 broad	широкий
 fund	финансировать
 sustenance	поддержка
