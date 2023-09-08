@@ -30,7 +30,7 @@ masterfully	властно
 justice	справедливость, правосудие
 accuse	обвинять
 capable	способный
-apt	склонный
+apt	склонный, уместный, пригодный
 niece	племянница
 anniversary	годовщина
 plain	простой, базовый
