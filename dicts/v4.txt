@@ -27,7 +27,6 @@ apparently	видимо
 rid	избавиться, освобождать
 obstacle	препятствие
 goon	болван, бандит
-encourage	поощрять
 wig	парик
 obsess	преследовать
 misalign	сместить
