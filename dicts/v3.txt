@@ -49,8 +49,7 @@ proper	правильный
 congest	перегружать
 dull	скучный
 estate	имущество
-behalf	от имени
-persuade	убеждать
+on behalf of	от имени
 bribe	взятка
 bizarre	странный, причудливый
 heyday	расcвет

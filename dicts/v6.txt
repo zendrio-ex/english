@@ -7,7 +7,6 @@ custom	обычай, традиция
 solstice	солнцестояние
 feast	пир
 fertility	плодородие
-appreciate	ценить
 What are you up to?	Чем занимаешься?
 colloquial	разговорный, нелитературный
 beats me	без понятия

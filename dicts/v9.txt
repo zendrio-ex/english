@@ -81,7 +81,7 @@ breach	нарушение
 gradually	понемногу, постепенно
 vulnerable	уязвимый
 harvest	собирать
-patchy	неоднородный, пятнистый
+patch (y)	заплатка (неоднородный, пятнистый)
 tear	разрывать
 in the first place	в первую очередь, изначально
 regardless of	независимо от

@@ -100,4 +100,4 @@ ink	чернила
 crucial	решающий, ключевой
 be fond of	любить, увлекаться
 crochet	вязять крючком
-wale	кит
+whale	кит
