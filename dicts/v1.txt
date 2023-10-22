@@ -3,7 +3,7 @@ temporary	временный
 occure	случаться, происходить
 template	образец, шаблон
 suppose	полагать
-apologize	извиняться
+apologize (for)	извиняться
 get on with	ладить с кем-то
 end up	оказаться
 treat	лечить, обращаться к кому-то

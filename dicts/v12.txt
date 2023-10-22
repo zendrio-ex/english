@@ -38,7 +38,7 @@ incorporate	включать (в себя что-то)
 offend	обижать, оскорблять
 to have a grudge	иметь обиду
 hung on	подожди
-diall a number	набирать номер
+dial a number	набирать номер
 go off	сработать
 anthem	гимн, торжественная песнь
 attenuate	ослаблять, смягчать
