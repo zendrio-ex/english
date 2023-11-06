@@ -71,7 +71,6 @@ shelf	полка
 ask for	попросить
 spend on	тратить на
 belong to	принадлежать кому-то
-arrange	организовывать
 noun	существительное
 adjective	прилагательное
 verb	глагол
@@ -149,6 +148,5 @@ script	сценарий
 bias	предвзятость
 receipt	чек
 upset	расстроенный
-refuse	отказаться
 near	рядом
 internal	внутренний

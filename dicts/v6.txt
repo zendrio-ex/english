@@ -7,7 +7,7 @@ custom	обычай, традиция
 solstice	солнцестояние
 feast	пир
 fertility	плодородие
-What are you up to?	Чем занимаешься?
+What are you up to?	Чем занимаешься?, Что ты задумал?
 colloquial	разговорный, нелитературный
 beats me	без понятия
 dozen	дюжина
@@ -23,7 +23,7 @@ smooth	гладкий
 stinky	вонючий
 silk	шелк
 flavour	вкус, аромат
-thick	толстый
+thick	толстый, густой
 squeeze	выжимать
 pear	груша
 it was intended	предполагалось, так было задумано
