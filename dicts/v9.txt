@@ -62,7 +62,7 @@ GDP	ВВП
 obscure	непонятный; невразумительный, неясный
 tycoon	магнат
 lucrative	прибыльный
-prominence	известность
+prominence	известность, выпуклость
 pledge	залог, обещание
 invincible	непобедимый, неуязвимый
 acute question/pain	острый вопрос/боль
